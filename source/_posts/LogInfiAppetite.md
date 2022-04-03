@@ -1,5 +1,5 @@
 ---
-title: 跑团Log-无尽食欲
+title: ［锅初团］跑团Log-无尽食欲
 date: 2019-10-02 22:21:59
 tags:
     - TRPG

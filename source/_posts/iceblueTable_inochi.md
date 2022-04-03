@@ -520,7 +520,7 @@ tags:
 # Logs
 
 KP：[冰蓝](https://www.weibo.com/407748192?refer_flag=1005055013)
-Log整理：本人
+Log整理：锅
 
 注意：本logs由本人整理，与log原文可能会有些许出入，系为了保证观感而修改。
 
