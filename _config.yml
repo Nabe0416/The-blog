@@ -4,12 +4,12 @@
 
 # Site
 title: 大锅杂烩
-subtitle:
+subtitle: 
 description:
 keywords:
 author: Naberion
 language: zh-Hans
-timezone:
+timezone: CET
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

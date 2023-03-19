@@ -5,21 +5,30 @@ date: 2019-10-03 14:22:20
 
 ---
 
-# Minecraft
+# Apex Legends
 
-最近有在玩的mod→[TFR](https://www.mcmod.cn/modpack/51.html)
+垃圾，顶头了白金水平。
+
+最近没咋打。
+
+# VRChat
+
+初心者，Unity也算初心者。
+
+一応Known Userになったけど
+
+ID:suiv，最近在狂社交补充社交能量。
 
 # FFXIV
 
 国服猫小胖。
 
-灰谷優花❃摩杜纳。
+████❃摩杜纳。
+
+<details>
+<summary>Outdated，暂A</summary>
 
 主渔/旅，战职主赤。
-
-洗月猫了。
-
-最近一直在AFK。
 
 长期成就列表：
 
@@ -57,7 +66,8 @@ date: 2019-10-03 14:22:20
 ~Nov. 11, 2020~
 ~Dec. 2, 2020~
 ~Jan. 11, 2021~
-Apr. 4, 2021
+~Apr. 4, 2021~
+Apr.11 , 2022
 
 
 ![俺的可爱猫猫](https://i.loli.net/2019/10/04/orY2ZsdH3xeKqpz.png)
@@ -70,72 +80,16 @@ Apr. 4, 2021
 ![俺的帅气兔兔](https://i.loli.net/2019/11/13/2WvmD53hfE4IHbF.png)
 
 </details>
-
----
-
-# Monster Hunter: World & Iceborne
-
-<details>
-<summary>过期信息</summary>
-
-PC猎人。弓、太刀、軽弩使い。
-
-啥也不做，等明年下雪。
-
-↑下雪了，太刀侠一筋快乐丢人（2020.1.20）。
-
-↑近期好好学习，上线会很少。(2020.2.17)
-
-↑没啥意思，煌黑之前可能不会打了。（2020-4-30）
-
-↑没啥意思，可能不会打了。（2020-12-2）
-
-![菜菜猎人Card](https://steamuserimages-a.akamaihd.net/ugc/784114509690780660/E259CEAAA8E824A7F418FD81BC45742CC2A30588/)
-
 </details>
-
-# Monster Hunter Rise
-
-刚开始玩，不过最近有事一直没开荒。
-
-集会所2星，村没动过。
 
 ---
 
 # 其他的杂七杂八的
 
-# Steam
+## Steam
 
 玩什么全看谁来找我玩什么。可以直接看近期游戏活动。
 
 现在不怎么玩FPS了，玩也就图一乐。
 
-[个人主页](https://steamcommunity.com/id/naberion/)
-
-## IM@S
-
-前346P,枫P。号弄丢了。
-
-现半吊子283P，雾子P。
-
-仅限偶尔上线抽卡P卡做做活动的程度。
-
-![SC](https://i.loli.net/2021/01/11/93LwvAsluaYiXcn.png)
-
-## KanColle
-
-岩川镇守府咸鱼，AL/MI后逐渐脱坑。响厨。
-
-![KC](https://i.loli.net/2021/01/11/AblGtrRuk1mOZHB.png)
-
-## BanG Dream
-
-~只打Mコラボ曲，但是很菜。モカ。号弄丢了。~
-
-没玩好久了。
-
-## Escape from Tarkov
-
-不会玩，刀都不会跑。
-
-ID: hoshino_tkns
+[个人主页](https://steamcommunity.com/id/koharu_kkmhr/)
